@@ -1,4 +1,4 @@
-declare -a orgs=("Developer" "Partner Developer" "Partner Enterprise" "Partner Professional" "Partner Group" "Enterprise" "Group" "Professional")
+declare -a orgs=("Developer" "Partner Developer" "Partner Enterprise" "Partner Professional" "Partner Group")
 
 for org in "${orgs[@]}"
 do
